@@ -7,4 +7,4 @@ Since the color theme still needs a lot of polishing, I am not posting it on the
 
 ## Installation
 
-Copy this file into the `<user home>/.vscode/extensions` folder and restart vscode.
+Copy this folder into the `<user home>/.vscode/extensions` folder and restart vscode.
