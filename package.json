@@ -15,6 +15,11 @@
         "label": "WaveFire",
         "uiTheme": "vs-dark",
         "path": "./themes/WaveFire-color-theme.json"
+      },
+      {
+        "label": "WaveFire OneDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WaveFire_OneDarkBased.json"
       }
     ]
   }
