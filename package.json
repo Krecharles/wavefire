@@ -1,0 +1,21 @@
+{
+  "name": "wavefire",
+  "displayName": "WaveFire",
+  "description": "My custom Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WaveFire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WaveFire-color-theme.json"
+      }
+    ]
+  }
+}
