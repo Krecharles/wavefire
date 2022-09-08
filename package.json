@@ -1,8 +1,8 @@
 {
   "name": "wavefire",
   "displayName": "WaveFire",
-  "description": "A Theme for 10x Developers",
-  "version": "0.0.3",
+  "description": "A Theme for the mythical 10x Developer",
+  "version": "1.0.0",
   "publisher": "Krecharles",
   "engines": {
     "vscode": "^1.71.0"
