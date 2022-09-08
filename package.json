@@ -3,6 +3,7 @@
   "displayName": "WaveFire",
   "description": "My custom Color Theme",
   "version": "0.0.1",
+  "publisher": "Krecharles",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -15,12 +16,17 @@
         "label": "WaveFire",
         "uiTheme": "vs-dark",
         "path": "./themes/WaveFire-color-theme.json"
-      },
-      {
-        "label": "WaveFire OneDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/WaveFire_OneDarkBased.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Krecharles/wavefire"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "krecharles",
+    "colorful"
+  ]
 }
